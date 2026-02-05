@@ -1,0 +1,40 @@
+body {
+    background-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+.box {
+    display: inline-block;
+    width: 1500px;
+    padding: 67px;
+    border: 2px solid black;
+    font-size: 15px;
+    background: burlywood;
+    text-align: center;
+    line-height: 1;
+}
+
+.lines div {
+    height: 2px;
+    background: black;
+    margin: 5px 0;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+    margin-left: 10px;
+}
+.btn {
+    background: burlywood ;
+    margin-left: 1400px ;
+}
+.prog {
+    background: burlywood;
+    margin-left: 1300px;
+}
