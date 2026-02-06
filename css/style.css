@@ -17,6 +17,8 @@ h1 {
     background: burlywood;
     text-align: center;
     line-height: 1;
+<<<<<<< HEAD
+=======
 }
 
 .lines div {
@@ -27,14 +29,40 @@ h1 {
 
 p {
     color: black;
+    font-size: 28px;
+    margin-left: center;
+}
+.Cookie {
+	width: 200px;
+	height: 200px;
+	margin-left: center;
+
+>>>>>>> 0df058a (basic style css)
+}
+
+.lines div {
+    height: 2px;
+    background: black;
+    margin: 5px 0;
+}
+
+<<<<<<< HEAD
+p {
+    color: black;
     font-size: 18px;
     margin-left: 10px;
 }
+=======
+>>>>>>> 0df058a (basic style css)
 .btn {
     background: burlywood ;
     margin-left: 1400px ;
 }
+<<<<<<< HEAD
 .prog {
+=======
+.button {
+>>>>>>> 0df058a (basic style css)
     background: burlywood;
     margin-left: 1300px;
 }
